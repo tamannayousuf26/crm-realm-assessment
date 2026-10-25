@@ -1,0 +1,10 @@
+{
+  "name": "crm-realm-js-problems",
+  "version": "1.0.0",
+  "description": "Part B of the CRM Realm assessment",
+  "main": "solutions.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
